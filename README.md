@@ -237,6 +237,7 @@ OpenAI 官网通常不直接支持支付宝和微信支付。本文介绍的[卡
 - [Claude Pro 国内充值教程](https://github.com/Ai66Man/claude-pay)
 - [Grok Super 国内充值教程](https://github.com/Ai66Man/Grok-pay)
 - [ChatGPT Plus 无法付款充值教程](https://github.com/Ai66Man/chatgpt-plus-goplus)
+- [AI 订阅渠道对比：官方、礼品卡、虚拟卡、第三方开通、拼车怎么选](https://ai66man.github.io/chatgpt-plus-sub/buying-guide.html)
 
 ## 更新记录
 
